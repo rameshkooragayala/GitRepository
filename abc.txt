@@ -1,4 +1,8 @@
 Hi adding data in Slave to file.
 
+<<<<<<< HEAD
 
 Hi Adding data in abc file from master branch
+=======
+hi adding data in slave second time
+>>>>>>> Slave
