@@ -2,6 +2,4 @@
 Hi addin some data to check the auto build on commit
 
 
-Hello Good Evening to one and all
-
-Hi adding some data again after moving to Jenkins Maven Project
+Hi Successfull configuration 
