@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Remember to point this to the correct url and port number! 
-JenkinsUrl="http://localhost:8080"
+JenkinsUrl="http://localhost:8080/jenkins/"
 
 #watch spaces in Jenkins Project Names, they will need to be url encoded to %20
 ProjectName="WebHookProject"
