@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# Remember to point this to the correct url and port number! 
+JenkinsUrl="http://localhost:8080"
+
+#watch spaces in Jenkins Project Names, they will need to be url encoded to %20
+ProjectName="WebHookProject"
+
+echo ""
+echo "Triggering Build on Jenkins server $JenkinsUrl"
+echo ""
+
+curl "$JenkinsUrl/job/$ProjectName/build"
