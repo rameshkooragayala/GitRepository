@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hi addin some data to check the auto build on commit
-jfhdjhfhfghf
-
-Hi Successfull configuration 

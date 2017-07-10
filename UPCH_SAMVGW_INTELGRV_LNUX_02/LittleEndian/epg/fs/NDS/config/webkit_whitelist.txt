@@ -1,6 +1,0 @@
-[http://widgets.metrological.com]
-http://=TRUE
-https://=TRUE
-[https://widgets.metrological.com]
-http://=TRUE
-https://=TRUE
