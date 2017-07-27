@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-Hi adding data in abc file from slave branch
-=======
->>>>>Slave
