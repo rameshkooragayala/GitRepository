@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 Hi addin some data to check the auto build on commit
 Hi adding data from github 
-
+Hi Adding data from local repository
 
 
 Hi adding some data again after moving to Jenkins Maven Project
